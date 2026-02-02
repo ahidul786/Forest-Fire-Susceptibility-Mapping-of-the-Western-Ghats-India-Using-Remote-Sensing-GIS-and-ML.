@@ -1,0 +1,2 @@
+# Forest-Fire-Susceptibility-Mapping-of-the-Western-Ghats-India-Using-Remote-Sensing-GIS-and-ML.
+This project maps forest fire susceptibility in the Western Ghats, India using Remote Sensing, GIS, and Random Forest machine learning. Twenty climatic, topographic, vegetation, and anthropogenic factors were integrated with FIRMS fire inventory data to identify fire-prone zones and support forest management and mitigation planning.

@@ -81,16 +81,6 @@ Handles nonlinear relationships
 
 Reduces overfitting
 
-Provides variable importance
-
-🗂 Repository Structure
-├── data/                 # Input datasets and fire inventory
-├── preprocessing/        # GIS and data preparation scripts
-├── model/                # Random Forest model
-├── results/              # Susceptibility maps and tables
-├── figures/              # Maps and graphs
-├── README.md             # Project documentation
-
 🔍 Key Findings
 
 Areas with dense vegetation and human proximity showed higher fire susceptibility
